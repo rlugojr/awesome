@@ -176,6 +176,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Charting](https://github.com/zingchart/awesome-charting)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+- [PostCSS](https://github.com/jjaderg/awesome-postcss)
 
 
 ## Back-end Development
@@ -321,6 +322,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Music](https://github.com/ciconia/awesome-music)
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
+- [Broadcasting](https://github.com/ebu/awesome-broadcasting)
 
 
 ## Learn
@@ -417,6 +419,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Typesetting language
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit
+- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
 
 
