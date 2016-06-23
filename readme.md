@@ -10,10 +10,11 @@
 
 - [What is an awesome list?](awesome.md)
 - [Contribution guide](contributing.md)
-- [Creating a list](create-list.md)<br><sup>Please take the time to read this and do an actual effort with your list. All the low-quality submissions are burning me out...</sup>
+- [Creating a list](create-list.md)
 - [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
+- [Chat](https://gitter.im/sindresorhus/awesome)
 
-[![Awesome chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/sindresorhus/awesome)
+Just type [`awesome.re`](https://awesome.re) to go here. ✨
 
 -
 
@@ -55,7 +56,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
-- [OS X](https://github.com/iCHAIT/awesome-osx)
+- [macOS](https://github.com/iCHAIT/awesome-osx)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
 	- [Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
 - [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
@@ -177,6 +178,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [PostCSS](https://github.com/jjaderg/awesome-postcss)
+- [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
 
 
 ## Back-End Development
@@ -201,6 +203,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen)
 - [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
+- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 
 
 ## Computer Science
@@ -277,10 +280,11 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 ## Development Environment
 
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - OS X.
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Shell](https://github.com/alebcay/awesome-shell)
+- [Fish](https://github.com/fisherman/awesome-fish)
 - [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [GitHub](https://github.com/phillipadsmith/awesome-github)
@@ -377,7 +381,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 - [Answers](https://github.com/jugoncalves/awesome-answers) - Stack Overflow, Quora, etc.
-- [Sketch](https://github.com/diessica/awesome-sketch) - OS X design app.
+- [Sketch](https://github.com/diessica/awesome-sketch) - Design app for macOS.
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
@@ -426,6 +430,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Colorful](https://github.com/Siddharth11/Colorful) - Resources to choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
+- [Bots](https://github.com/hackerkid/bots) - Building bots.
 
 
 ## License
