@@ -21,7 +21,7 @@ Just type [`awesome.re`](https://awesome.re) to go here. ✨
 Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](https://twitter.com/sindresorhus).
 
 
-## Table of Contents
+## Contents
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
@@ -115,7 +115,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
 - [Kotlin](https://github.com/JavaBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
-- [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
+- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [PHP](https://github.com/ziadoz/awesome-php)
@@ -179,6 +179,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [PostCSS](https://github.com/jjaderg/awesome-postcss)
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
+- [Service Workers](https://github.com/TalAter/awesome-service-workers)
+- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 
 
 ## Back-End Development
@@ -431,6 +433,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Colorful](https://github.com/Siddharth11/Colorful) - Resources to choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots) - Building bots.
+- [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
+- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures.
 
 
 ## License
